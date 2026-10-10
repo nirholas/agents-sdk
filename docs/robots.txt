@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nirholas.github.io/agents-sdk/sitemap.xml

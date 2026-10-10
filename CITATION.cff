@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "@three-ws/agents"
+abstract: "TypeScript SDK for the three.ws v1 Agents API: create, start and chat with AI agents, run goals, automate, and trade from Solana agent wallets."
+type: software
+authors:
+  - name: three.ws contributors
+repository-code: "https://github.com/nirholas/agents-sdk"
+url: "https://nirholas.github.io/agents-sdk/"
+license: Apache-2.0
+version: 0.1.1
