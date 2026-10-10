@@ -304,3 +304,30 @@ Apache-2.0. See [LICENSE](LICENSE).
 ---
 
 Part of [three.ws](https://three.ws), the open-source platform for 3D AI agents. This repository is exported from the [monorepo](https://github.com/nirholas/three.ws/tree/main/packages/agents-sdk), which is the source of truth: open issues here, and send larger changes there.
+
+<!-- three.ws:growth -->
+## Support the project
+
+If agents-sdk saves you time, **[star it on GitHub](https://github.com/nirholas/agents-sdk)**. Stars are how other developers and AI agents find the repositories worth trusting, and they cost you one click.
+
+Know someone who would use it? [Post on X](https://twitter.com/intent/tweet?text=agents-sdk%3A%20TypeScript%20SDK%20for%20the%20three.ws%20v1%20Agents%20API%3A%20create%2C%20start%20and%20chat%20with%20AI%20agents%2C%20run%20goals&url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagents-sdk) · [Share on Bluesky](https://bsky.app/intent/compose?text=agents-sdk%3A%20TypeScript%20SDK%20for%20the%20three.ws%20v1%20Agents%20API%3A%20create%2C%20start%20and%20chat%20with%20AI%20agents%2C%20run%20goals%20https%3A%2F%2Fgithub.com%2Fnirholas%2Fagents-sdk) · [Share on LinkedIn](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagents-sdk) · [Submit to Hacker News](https://news.ycombinator.com/submitlink?u=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagents-sdk&t=agents-sdk%3A%20TypeScript%20SDK%20for%20the%20three.ws%20v1%20Agents%20API%3A%20create%2C%20start%20and%20chat%20with%20AI%20agents%2C%20run%20goals) · [Share on Reddit](https://www.reddit.com/submit?url=https%3A%2F%2Fgithub.com%2Fnirholas%2Fagents-sdk&title=agents-sdk%3A%20TypeScript%20SDK%20for%20the%20three.ws%20v1%20Agents%20API%3A%20create%2C%20start%20and%20chat%20with%20AI%20agents%2C%20run%20goals)
+
+## Built for AI agents too
+
+Coding agents and LLM tooling can read this repo directly: [AGENTS.md](./AGENTS.md), [llms.txt](./llms.txt), [llms-full.txt](./llms-full.txt). Point an agent at `https://github.com/nirholas/agents-sdk` and it has the context it needs.
+
+## More from the same author
+
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme): the full catalog, grouped by topic
+- [three.ws](https://three.ws): the platform for 3D AI agents with Solana wallets, a skill marketplace and x402 payments
+- Questions or ideas: [open an issue](https://github.com/nirholas/agents-sdk/issues) or [start a discussion](https://github.com/nirholas/agents-sdk/discussions)
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=nirholas/agents-sdk)](https://github.com/nirholas/agents-sdk/graphs/contributors)
+
+## Star history
+
+[![Star History Chart](https://api.star-history.com/svg?repos=nirholas/agents-sdk&type=Date)](https://www.star-history.com/#nirholas/agents-sdk&Date)
+
+<!-- /three.ws:growth -->
