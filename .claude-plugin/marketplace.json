@@ -1,0 +1,19 @@
+{
+  "name": "three-ws-agents",
+  "owner": {
+    "name": "nirholas"
+  },
+  "description": "Drive the three.ws v1 Agents API from TypeScript: create, chat with and run goals on AI agents with Solana wallets.",
+  "plugins": [
+    {
+      "name": "three-ws-agents",
+      "source": "./",
+      "description": "Drive the three.ws v1 Agents API from TypeScript: create, chat with and run goals on AI agents with Solana wallets.",
+      "tags": [
+        "agents",
+        "sdk",
+        "solana"
+      ]
+    }
+  ]
+}
