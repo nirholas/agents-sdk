@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/agents-sdk",
+  "homepage": "https://nirholas.github.io/agents-sdk/",
   "license": "Apache-2.0",
   "keywords": [
     "three-ws",
@@ -13,6 +14,5 @@
     "sdk",
     "solana",
     "typescript"
-  ],
-  "homepage": "https://nirholas.github.io/agents-sdk/"
+  ]
 }
